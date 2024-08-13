@@ -32,9 +32,5 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Paolabeltrao/Paolabeltrao/output/snake.svg" alt="Snake animation" />
-
-###
 
